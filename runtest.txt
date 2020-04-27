@@ -1,0 +1,88 @@
+[Menu] Input a number to select.
+===============================================
+1. Create  2. Read  3. Update  4. Purchase
+5. Search  6. Delete  7. Load  8. Save
+9. Report   10. Setting   0. Exit
+===============================================
+>> 1
+
+<< Create a Product >>
+Product Name >> apple
+Seller Name >> mj
+Price of Product >> 1000
+
+[Create] Succeeded to add a product!
+[Create] Your ID is 1, please don't forget it!
+
+[Menu] Input a number to select.
+===============================================
+1. Create  2. Read  3. Update  4. Purchase
+5. Search  6. Delete  7. Load  8. Save
+9. Report   10. Setting   0. Exit
+===============================================
+>> 2
+
+<< Read a Record >>
+
+[Read] Input id to read
+>> 1
+
+==================================
+id: 1
+Product Name: apple
+Seller Name: mj
+Price: 1000
+==================================
+
+[Menu] Input a number to select.
+===============================================
+1. Create  2. Read  3. Update  4. Purchase
+5. Search  6. Delete  7. Load  8. Save
+9. Report   10. Setting   0. Exit
+===============================================
+>> 3
+
+<< Update a Record >>
+
+[Update] Input id to update
+>> 1
+
+[Update] A data is found! >        1 / apple / mj / 1000
+[Update] Do you want to change this data?
+================
+1. Yes  2. No
+================
+>> 1
+Product Name >> banan
+Seller Name >> mj
+Price of Product >> 800
+
+[Update] Data updated!
+
+[Menu] Input a number to select.
+===============================================
+1. Create  2. Read  3. Update  4. Purchase
+5. Search  6. Delete  7. Load  8. Save
+9. Report   10. Setting   0. Exit
+===============================================
+>> 2
+
+<< Read a Record >>
+
+[Read] Input id to read
+>> 1
+
+==================================
+id: 1
+Product Name: banan
+Seller Name: mj
+Price: 800
+==================================
+
+[Menu] Input a number to select.
+===============================================
+1. Create  2. Read  3. Update  4. Purchase
+5. Search  6. Delete  7. Load  8. Save
+9. Report   10. Setting   0. Exit
+===============================================
+
