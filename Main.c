@@ -733,7 +733,6 @@ void CreateReport()
 				}
 			}
 		}
-		printf("[DEBUG] %d\n", i + 1);
 		prod_count++;
 		sell_count++;
 	}
